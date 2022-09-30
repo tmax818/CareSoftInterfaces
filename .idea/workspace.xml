@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ef72ae1-3d1e-4ce5-b914-5293e0ff21d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CareSoftInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caresoft/clinicapp/AdminUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caresoft/clinicapp/HIPAACompliantAdmin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caresoft/clinicapp/HIPAACompliantUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caresoft/clinicapp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caresoft/clinicapp/Physician.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/caresoft/clinicapp/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="7ef72ae1-3d1e-4ce5-b914-5293e0ff21d0" name="Changes" comment="fin" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,8 +78,16 @@
       <workItem from="1664394836162" duration="4722000" />
       <workItem from="1664404287071" duration="1147000" />
       <workItem from="1664407493590" duration="2002000" />
-      <workItem from="1664478909802" duration="4895000" />
+      <workItem from="1664478909802" duration="5499000" />
     </task>
+    <task id="LOCAL-00001" summary="fin">
+      <created>1664495774808</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664495774808</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +103,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fin" />
+    <option name="LAST_COMMIT_MESSAGE" value="fin" />
   </component>
 </project>
